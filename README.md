@@ -1,5 +1,4 @@
 # CS2205.JAN2026
-## YouTube Video : https://www.youtube.com/watch?v=G-drHoCv-U0
 ## Gait Analysis for Fall Risk Prediction Using OpenPose and Deep Learning
 
 ### Abstract
@@ -17,6 +16,8 @@ The results demonstrate the strong potential of the proposed method as an automa
 
 ---
 
+### YOUTUBE Video
+- https://www.youtube.com/watch?v=G-drHoCv-U0
 ### Information
 - **Trần Thanh Tùng** — MSHV: 250201098  
 - University of Information Technology, VNU-HCMC, Vietnam
