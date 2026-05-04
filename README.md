@@ -18,9 +18,6 @@ The results demonstrate the strong potential of the proposed method as an automa
 
 ### Sources
 - **[YouTube Demo](https://www.youtube.com/watch?v=G-drHoCv-U0)**
-- **[Poster](https://github.com/tungthanhtran250201098/CS2205.JAN2026-FALL-RISK-PREDICTION/blob/main/Tùng%20Trần%20Thanh%20-%20CS2205.JAN2026.FinalReport.Poster.pdf)**
-- **[Slides](https://github.com/tungthanhtran250201098/CS2205.JAN2026-FALL-RISK-PREDICTION/blob/main/Tùng-Trần-Thanh-CS2205.JAN2026-Final-Report.pdf)**
-
 ### Information
 - **Trần Thanh Tùng** — MSHV: 250201098  
 - University of Information Technology, VNU-HCMC, Vietnam
